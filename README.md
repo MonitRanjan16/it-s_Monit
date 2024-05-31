@@ -1,2 +1,3 @@
-# it-s_Monit
+# it's_Monit
 it's my first Git Repository.
+Author-Monit Ranjan
